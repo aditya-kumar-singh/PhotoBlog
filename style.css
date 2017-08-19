@@ -1,0 +1,14 @@
+/* Type Selectors */
+li{}
+li a{}
+li+a{}
+
+/* Class attribute & pseudo-class selector*/
+.hey{}/* More specific as comapred to type (10 times more)*/ 
+input[type="text"]{}
+a:hover
+input:checked
+
+/* Id selector (Highest)*/
+
+#hello
